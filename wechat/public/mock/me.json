@@ -1,0 +1,43 @@
+{
+  "userInfo": {
+    "avatar": "me.jpg",
+    "name": "王力宏",
+    "userId": "LeehomWang"
+  },
+  "sections": [{
+    "rows": [{
+      "icon": "\ue6fc",
+      "title": "支付",
+      "iconColor": "green"
+    }]
+  },
+    {
+      "rows": [{
+        "icon": "\ue6ea",
+        "title": "收藏",
+        "iconColor": "#FF4D46"
+      },
+        {
+          "icon": "\ue717",
+          "title": "相册",
+          "iconColor": "#7EBAFF"
+        },
+        {
+          "icon": "\ue706",
+          "title": "卡包",
+          "iconColor": "#7EBAFF"
+        },
+        {
+          "icon": "\ue6f6",
+          "title": "表情",
+          "iconColor": "orange"
+        }]
+    },
+    {
+      "rows": [{
+        "icon": "\ue703",
+        "title": "设置",
+        "iconColor": "orange"
+      }]
+    }]
+}

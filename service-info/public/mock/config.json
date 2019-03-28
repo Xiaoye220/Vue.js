@@ -1,0 +1,120 @@
+{
+  "SDK_AppInfo": {
+    "title": "基本信息",
+    "AppId" : {
+      "type": "Input",
+      "title": "App ID"
+    },
+    "AppKey" : {
+      "type": "Input",
+      "title": "App Key"
+    },
+    "AppTheme": {
+      "type": "Radio",
+      "title": "皮肤",
+      "items": {
+        "Light": "亮色系",
+        "Dark": "暗色系"
+      }
+    },
+    "AppOrientation": {
+      "H5Page": {
+        "Portrait": {
+          "type": "Switch",
+          "title": "H5 页面竖屏"
+        },
+        "Landscape": {
+          "type": "Switch",
+          "title": "H5 页面竖屏"
+        }
+      },
+      "UserCenter": {
+        "Portrait": {
+          "type": "Switch",
+          "title": "用户中心竖屏"
+        },
+        "Landscape": {
+          "type": "Switch",
+          "title": "用户中心竖屏"
+        }
+      }
+    },
+    "AppLanguage": {
+      "type": "Select",
+      "title": "语言",
+      "items": {
+        "ar": "阿拉伯",
+        "en": "英语"
+      }
+    }
+  },
+
+  "SDK_UserCenter": {
+    "title": "用户中心",
+    "LoginType" : {
+      "type": "Checkbox",
+      "title": "登录方式",
+      "items": {
+        "GameCenter": "GameCenter",
+        "Facebook": "Facebook",
+        "Email": "Email",
+        "QQ": "QQ",
+        "WeChat": "微信"
+      }
+    }
+  },
+
+  "SDK_Host": {
+    "title": "域名设置",
+    "Common": {
+      "Host": {
+        "Debug": {
+          "type": "Input",
+          "title": "Common Debug"
+        },
+        "Beta": {
+          "type": "Input",
+          "title": "Common Beta"
+        },
+        "Release": {
+          "type": "Input",
+          "title": "Common Release"
+        }
+      }
+    }
+  },
+
+  "SDK_Social": {
+    "title": "社会化",
+    "Facebook": {
+      "AppId": {
+        "type": "Input",
+        "title": "Facebook AppId"
+      },
+      "AppKey": {
+        "type": "Input",
+        "title": "Facebook AppKey"
+      }
+    },
+    "WeChat": {
+      "AppId": {
+        "type": "Input",
+        "title": "WeChat AppId"
+      },
+      "AppKey": {
+        "type": "Input",
+        "title": "WeChat AppKey"
+      }
+    },
+    "QQ": {
+      "AppId": {
+        "type": "Input",
+        "title": "QQ AppKey"
+      },
+      "AppKey": {
+        "type": "Input",
+        "title": "QQ AppKey"
+      }
+    }
+  }
+}

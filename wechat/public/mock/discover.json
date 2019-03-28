@@ -1,0 +1,59 @@
+{
+  "sections": [{
+    "rows": [{
+      "icon": "\ue707",
+      "title": "朋友圈",
+      "iconColor": "green"
+    }]
+  },
+    {
+      "rows": [{
+        "icon": "\ue722",
+        "title": "扫一扫",
+        "iconColor": "#7EBAFF"
+      },
+        {
+          "icon": "\ue74e",
+          "title": "摇一摇",
+          "iconColor": "#7EBAFF"
+        }]
+    },
+    {
+      "rows": [{
+        "icon": "\ue6f6",
+        "title": "看一看",
+        "iconColor": "orange"
+      },
+        {
+          "icon": "\ue741",
+          "title": "搜一搜",
+          "iconColor": "#FF4D46"
+        }]
+    },
+    {
+      "rows": [{
+        "icon": "\ue702",
+        "title": "附近的人",
+        "iconColor": "#7EBAFF"
+      }]
+    },
+    {
+      "rows": [{
+        "icon": "\ue703",
+        "title": "购物",
+        "iconColor": "#FF4D46"
+      },
+        {
+          "icon": "\ue6fc",
+          "title": "游戏",
+          "iconColor": "green"
+        }]
+    },
+    {
+      "rows": [{
+        "icon": "\ue760",
+        "title": "小程序",
+        "iconColor": "purple"
+      }]
+    }]
+}

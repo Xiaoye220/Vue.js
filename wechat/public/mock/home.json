@@ -1,0 +1,85 @@
+{
+  "list": [{
+    "avatar": "1.jpg",
+    "title": "李雷",
+    "detail": "船舱它是我的家",
+    "time": "20:36"
+  },{
+    "avatar": "2.jpg",
+    "title": "韩梅梅",
+    "detail": "大海是我嘘嘘的地方",
+    "time": "19:16"
+  },{
+    "avatar": "3.jpg",
+    "title": "李刚",
+    "detail": "我对海鲜会过敏",
+    "time": "18:00"
+  },{
+    "avatar": "4.jpg",
+    "title": "丁丁",
+    "detail": "吃素已很久",
+    "time": "16:19"
+  },{
+    "avatar": "5.jpg",
+    "title": "拉拉",
+    "detail": "想当那歌手",
+    "time": "14:20"
+  },{
+    "avatar": "6.jpg",
+    "title": "迪西",
+    "detail": "结果变成水手",
+    "time": "10:16"
+  },{
+    "avatar": "7.jpg",
+    "title": "波儿~",
+    "detail": "这些海鲜 捕吃可吃 知不可吃 捕吃可吃 知不可吃",
+    "time": "00:01"
+  },{
+    "avatar": "8.jpg",
+    "title": "Tommy",
+    "detail": "可不吃不吃不吃 克制不吃土司",
+    "time": "昨天"
+  },{
+    "avatar": "9.jpg",
+    "title": "Lily",
+    "detail": "喔如果超人会飞",
+    "time": "昨天"
+  },{
+    "avatar": "10.jpg",
+    "title": "Jerry",
+    "detail": "那就让我在空中停一停歇",
+    "time": "昨天"
+  },{
+    "avatar": "11.jpg",
+    "title": "Tom",
+    "detail": "再次俯瞰这个世界",
+    "time": "昨天"
+  },{
+    "avatar": "12.jpg",
+    "title": "周杰伦",
+    "detail": "会让我觉得好一些",
+    "time": "昨天"
+  },{
+    "avatar": "13.jpg",
+    "title": "林俊杰",
+    "detail": "喔",
+    "time": "昨天"
+  }],
+  "popoverList": [{
+    "icon": "\ue70d",
+    "title": "发起群聊",
+    "iconColor": "white"
+  },{
+    "icon": "\ue715",
+    "title": "添加朋友",
+    "iconColor": "white"
+  },{
+    "icon": "\ue71c",
+    "title": "扫一扫",
+    "iconColor": "white"
+  },{
+    "icon": "\ue6e2",
+    "title": "收付款",
+    "iconColor": "white"
+  }]
+}

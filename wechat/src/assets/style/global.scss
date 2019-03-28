@@ -1,0 +1,16 @@
+@import "~@/assets/style/variables.scss";
+
+@mixin scroll-style {
+  -webkit-overflow-scrolling: touch; // iOS 滚动回弹
+  will-change: scroll-position; // 提高性能，提前通知浏览器即将进行的改动
+  contain: size style layout;   // 允许开发者声明当前元素和它的内容尽可能的独立于 DOM 树的其他部分
+  overflow-x:hidden;
+  overflow-y: scroll;
+}
+
+@mixin ellipsis {
+  overflow: hidden; //超出的内容进行隐藏
+  white-space: nowrap; //内容不换行
+  text-overflow: ellipsis; //超出内容为省略号
+}
+

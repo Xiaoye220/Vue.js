@@ -1,0 +1,69 @@
+{
+  "sections": [{
+    "title": "",
+    "rows": [{
+      "avatar": "new-friend.jpg",
+      "title": "新的朋友"
+    },{
+      "avatar": "chat.jpg",
+      "title": "群聊"
+    },{
+      "avatar": "tag.jpg",
+      "title": "标签"
+    },{
+      "avatar": "public.jpg",
+      "title": "公众号"
+    }]
+  },{
+    "title": "☆  星标朋友",
+    "rows": [{
+      "avatar": "1.jpg",
+      "title": "李雷"
+    }]
+  },{
+    "title": "B",
+    "rows": [{
+      "avatar": "7.jpg",
+      "title": "波儿~"
+    }]
+  },{
+    "title": "D",
+    "rows": [{
+      "avatar": "4.jpg",
+      "title": "丁丁"
+    },{
+      "avatar": "6.jpg",
+      "title": "迪西"
+    }]
+  },{
+    "title": "H",
+    "rows": [{
+      "avatar": "2.jpg",
+      "title": "韩梅梅"
+    }]
+  },{
+    "title": "L",
+    "rows": [{
+      "avatar": "1.jpg",
+      "title": "李雷"
+    },{
+      "avatar": "3.jpg",
+      "title": "李刚"
+    },{
+      "avatar": "5.jpg",
+      "title": "拉拉"
+    },{
+      "avatar": "9.jpg",
+      "title": "Lily"
+    },{
+      "avatar": "13.jpg",
+      "title": "林俊杰"
+    }]
+  },{
+    "title": "Z",
+    "rows": [{
+      "avatar": "12.jpg",
+      "title": "周杰伦"
+    }]
+  }]
+}
